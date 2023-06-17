@@ -5,3 +5,7 @@
  - Jobs
 
 Design a landing page showing the above offerings, considering blogs as the main offering.
+
+
+
+https://dinbkwm7rd7f1.cloudfront.net/index.html
